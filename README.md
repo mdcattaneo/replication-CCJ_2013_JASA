@@ -1,6 +1,6 @@
 # Replication: Cattaneo, Crump and Jansson (2013)
 
-Replication files for simulation results.
+Replication files for empirical application.
 
 See README.txt for details.
 
