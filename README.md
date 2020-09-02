@@ -1,0 +1,1 @@
+# replication-CCJ_2013_JASA
