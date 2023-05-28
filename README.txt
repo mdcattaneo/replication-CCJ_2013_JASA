@@ -5,9 +5,6 @@
 ## Estimators of Weighted Average Derivatives (with discussions and 
 ## rejoinder)", Journal of the American Statistical Association 
 ## 108(504): 1243-1268, December 2013.
-##
-## Contact email: cattaneo@umich.edu
-##
 ######################################################################
 
 MAIN DESCRIPTION:
